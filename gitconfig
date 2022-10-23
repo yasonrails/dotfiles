@@ -48,6 +48,6 @@
   mergeoptions = --no-edit
 [user]
 	email = yasbernays@gmail.com
-	name = yas
+	name = yasonrails
 [credential]
 	helper = cache --timeout=366666600
